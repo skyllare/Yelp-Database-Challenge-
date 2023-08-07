@@ -1,6 +1,6 @@
 # Yelp Dataset Search Application
 
-#### A fully functional search application for Yelp.com’s business review data (https://www.yelp.com/dataset). 
+### A fully functional search application for Yelp.com’s business review data (https://www.yelp.com/dataset). 
 This project was created in order to create an application that allows a user to utilize the yelp business dataset. In this project you can do the following
 * Search businesses based on state, city, and zipcode
 * Further filter businesses based on category (restaurant, spa etc.)
