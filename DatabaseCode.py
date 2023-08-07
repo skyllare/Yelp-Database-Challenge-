@@ -28,7 +28,7 @@ class milestone2(QMainWindow):
 
     def executeQuery(self,sql_str):
         try:
-            conn = psycopg2.connect("dbname='yelp_challenge' user='postgres' host='localhost' password='AsDKOU'")
+            conn = psycopg2.connect("dbname='yelp_challenge' user='postgres' host='localhost' password='**'")
         except:
             print('Unable to connect to the database!')
         cur = conn.cursor()
